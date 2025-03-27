@@ -20,8 +20,8 @@ This project is a two-in-one script that:
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/reel-scraper.git
-   cd reel-scraper
+   git clone https://github.com/tars-06/reelstotg.git
+   cd ReelsToTG
    ```
 2. Install dependencies:
    ```sh
